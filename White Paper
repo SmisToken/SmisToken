@@ -1,0 +1,172 @@
+SMIS White Paper
+
+As the world becomes increasingly digital, cryptocurrencies are gaining strength in our society and taking the place of technologies that become obsolete. In the same way it is more comfortable and safer for us to use a decentralized and secure technology in all areas of our lives.
+
+A natural step was to also use these social advances in the world of solidarity.
+
+Our mission:To build a platform where charities, NGOs and individuals connect safely and also in an inclusive and sustainable way.
+
+Our vision:A society solidarily connected with a clearer vision of a social horizon where we are all closer to each other.
+
+Because SMIS seeks a more inclusive and union society we will proceed to explain a little from the base, what cryptocurrencies are and why they are important.
+
+ 
+
+Introduction: Why Cryptocurrencies Are Important
+
+Currently, our daily financial transactions rely on a trusted third party to maintain a record of transactions. For example, when you make a banking transaction, the banking system keeps a record and ensures that the transaction is safe and reliable. Likewise, when Antonio transfers $5 to Gael using PayPal, PayPal keeps a central record of $5 dollars debited from Antonio’s account and $5 credited to Gael’s. Intermediaries such as banks, PayPal and other members of the current economic system play an important role in regulating the world’s financial transactions.
+
+However, the role of these trusted intermediaries also has limitations:
+
+Capture of unfair value. These intermediaries accumulate billions of dollars in wealth creation (the market capitalization of PayPal is ~130 billion dollars), but they transmit practically nothing to their clients: the ordinary people on the ground, whose money drives a significant proportion of the global economy. More and more people are falling behind.
+Fees . Banks and businesses charge high fees for facilitating transactions. These fees often disproportionately affect low-income populations that have the fewest alternatives.
+Censorship. If a particular trusted intermediary decides that you should not be able to move your money, they may impose restrictions on the movement of your money.
+Authorized. The trusted intermediary acts as a gatekeeper who can arbitrarily prevent someone from being part of the network.
+Pseudonym . At a time when the issue of privacy is becoming more urgent, these powerful gatekeepers may accidentally reveal, or force you to disclose, more financial information about you than you could ever want.
+ 
+
+Bitcoin’s “peer-to-peer electronic cash system,” launched in 2009 by an anonymous programmer (or group) Satoshi Nakamoto, was a watershed moment for money freedom. For the first time in history, people could exchange value securely, without the need for a third party or trusted intermediary. Paying in Bitcoin meant that people like Antonio and Gael could pay each other directly, bypassing institutional fees, obstructions, and intrusions. Bitcoin was truly a borderless currency, powering and connecting a new global economy.
+
+Introduction To Distributed Ledgers
+
+Bitcoin achieved this historic feat using a distributed ledger. While the current financial system is based on the traditional central record of truth, the Bitcoin record is maintained by a distributed community of “validators,” who access and update this public ledger. Imagine the Bitcoin protocol as a globally shared “Google Sheet” containing a transaction log, validated and maintained by this distributed community.
+
+The advancement of Bitcoin (and blockchain technology in general) is that, although the registry is maintained by a community, the technology allows them to always reach a consensus on truthful transactions, ensuring that cheaters cannot record false transactions or overcome the system. This technological advance allows the elimination of the centralized intermediary, without compromising transactional financial security.
+
+Benefits Of Distributed Ledgers
+
+In addition to decentralization, bitcoin or cryptocurrencies in general, share some nice properties that make money smarter and safer, although different cryptocurrencies may be stronger in some properties and weaker in others, according to different implementations of their protocols. Cryptocurrencies are stored in cryptographic wallets identified by a publicly accessible address and are protected by a very strong private password, called a private key. This private key signs the transaction cryptographically and it is virtually impossible to create fraudulent signatures. This provides security and seizure. Unlike traditional bank accounts that can be confiscated by government authorities, the cryptocurrency in your wallet can never be taken away by anyone without your private key. Cryptocurrencies are censorship-resistant due to the decentralized nature because anyone can send transactions to any computer on the network to be recorded and validated. Cryptocurrency transactions are immutable because each block of transactions represents a cryptographic proof (a hash) of all the previous blocks that existed before that. Once someone sends you money, they can’t steal your payment (i.e. there are no bad checks on the blockchain). Some of the cryptocurrencies may even support atomic transactions. The “smart contracts” built on top of these cryptocurrencies are not simply based on the law for their enforcement, but are applied directly through publicly auditable code, which makes them distrustful and can potentially get rid of intermediaries in many companies, for example, Escrow for real estate.
+
+ 
+
+Secure Distributed Ledgers (Mining)
+
+One of the challenges of maintaining a distributed ledger of transactions is security, specifically, how to have an open and editable ledger while preventing fraudulent activity. To address this challenge, Bitcoin introduced a novel process called Mining (using the “Proof of Work” consensus algorithm) to determine who is “trusted” to make updates to the shared transaction log.
+
+You can think of mining as a type of economic game that forces “Validators” to prove their merit when they try to add transactions to the record. To qualify, validators must solve a number of complex computational puzzles. The Validator who solves the puzzle first is rewarded with the ability to publish the last block of transactions. Publishing the latest block of transactions allows validators to “mine” a block reward, currently 12.5 bitcoins (or ~$40,000 at the time of writing).
+
+This process is very safe, but it demands enormous computing power and power consumption, as users essentially “spend money” to solve the computational puzzle that allows them to earn more Bitcoin. The burn-to-reward relationship is so punitive that it is always in the Self-Interest of Validators to publish honest transactions on the Bitcoin registry.
+
+ 
+
+Problem: The centralization of power and money put first-generation cryptocurrencies out of reach
+
+In the early days of Bitcoin, when only a few people worked to validate transactions and mine the first blocks, anyone could earn 50 BTC by simply running the Bitcoin mining software on their personal computer. As the coin began to gain popularity, smart miners realized that they could earn more if they had more than one computer working on mine.
+
+As Bitcoin continued to rise in value, entire companies began to emerge to mine. These companies developed specialized chips (“ASIC”) and built huge server farms using these ASIC chips to mine Bitcoin. The emergence of these huge, well-known mining corporations fueled the Bitcoin gold rush, making it difficult for ordinary people to contribute to the network and be rewarded. Their efforts also began to consume increasing amounts of computer energy, which contributed to the rise of environmental problems around the world.
+
+The ease of mining Bitcoin and the subsequent rise of Bitcoin mining farms quickly produced a massive centralization of production power and wealth on the Bitcoin network. To provide some context, 87% of all Bitcoins are now owned by 1% of their network, many of these coins were mined virtually for free in their early days. As another example, Bitmain, one of Bitcoin’s largest mining operations, has made billions in revenue and profits.
+
+The centralization of power in the Bitcoin network makes it very difficult and expensive for the average person. If you want to acquire Bitcoin, your easiest options are:
+
+Pamper it yourself. Just plug in the specialized hardware AND go to the city. Just know that since you will compete against massive server farms around the world, consuming as much energy as the country of Switzerland, you won’t be able to extract much
+Buy Bitcoin on an exchange. Today, you can buy Bitcoin at a unit price of $45000/currency at the time of writing (note: you can buy a fractional amount of Bitcoin!). Of course, you would also be taking substantial risk by doing so as the price of Bitcoin. it’s quite volatile.
+Bitcoin was the first to show how cryptocurrency could alter the current financial model, giving people the ability to transact without having a third party along the way. Increasing freedom, flexibility, and privacy continue to drive the inevitable march toward digital currencies as a new norm. Despite its benefits, Bitcoin’s concentration of money and power (probably unintentional) presents a significant barrier to widespread adoption. Pi’s core team has conducted research to try to understand why people are reluctant to enter the cryptocurrency space. People consistently mentioned the risk of investing/mining as a key barrier to entry.
+
+ 
+
+Solution: SMIS: Proof of Stake or PoS
+
+A proof-of-stake algorithm, also known by the acronym PoS (proof of stake), is a distributed consensus protocol for distributed networks that secures a network of a cryptocurrency by requesting proof of possession of such coins. With PoS the probability of finding a block of transactions – and receiving the corresponding prize – is directly proportional to the amount of coins one has accumulated (thus avoiding that the trust is given by the amount of work invested)12
+
+It is a different system from the one used in the first and best known of the cryptocurrencies, Bitcoin, to validate electronic transactions, which uses the proof of work system.
+
+They are based on the assumption that those who own more units of a PoS-based currency are especially interested in the survival and proper functioning of the network that gives value to these coins and therefore they are the most suitable to bear the responsibility of protecting the system from possible attacks. That’s why the protocol rewards them with less difficulty finding blocks (it’s inversely proportional to the number of coins they prove to possess).
+
+ 
+
+SMIS uses the Binance Smart Chain network which is a blockchain enabled for smart contracts Binance launched Smart Chain to provide a high-speed, low-cost alternative to the burgeoning decentralized finance (DeFi) market, which has suffered with Ethereum’s high transaction fees. Launched in September 2020, Binance Smart Chain features a block time of five seconds, cross-chain asset transfers, EVM support, and an Authorized Proof of Stake consensus protocol to ensure scalability.
+
+ 
+
+A Simplified Introduction to Consensus Algorithms
+
+It’s helpful to have a simple explanation about what a consensus algorithm does for a blockchain and the types of consensus algorithms typically used by current blockchain protocols, for example, Bitcoin and SCP. This section is explicitly written in a simplified manner for the sake of clarity and is not complete.
+
+A blockchain is a fault-tolerant distributed system that aims to fully sort out a block list of transactions. Fault-tolerant distributed systems are an area of computing that has been studied for many decades. They are called distributed systems because they do not have a centralized server, but are composed of a decentralized list of computers (called nodes or peers) that need to reach a consensus on what the content and total order of the blocks is. They are also called fault tolerant because they can tolerate a certain degree of faulty nodes in the system (for example, up to 33% of nodes may have failures and the overall system is still functioning normally).
+
+There are two broad categories of consensus algorithms: those that choose a node as the leader that produces the next block, and those in which there is no explicit leader but all nodes reach a consensus on what the next block is after exchanging votes by sending computer messages to each other. (Strictly speaking, the last sentence contains multiple inaccuracies, but it helps us explain the general strokes.)
+
+Bitcoin uses the first type of consensus algorithm: all bitcoin nodes compete with each other to solve a cryptographic puzzle. Because the solution is found randomly, essentially the node that finds the solution first, by chance, is chosen leader of the round that produces the next block. This algorithm is called “Proof of Work” and results in high power consumption.
+
+SMIS Adaptations How to Get SMIS TOKEN
+
+In addition to going to decentralized exchanges and centralized exchange platforms such as Binance-type Exchange to acquire them through purchase orders, there are several ways for the user to acquire SMIS tokens:
+
+AIR DROPParticipate in AirDrop promotions you can get the maner tokens completely free by doing activities such as following on social networks or joining Telegram groups. These promotions are made during the launch period or by special promotions.
+IDO or LAUNCH. It is a method to launch the cryptocurrency or token where users or interested parties can acquire the cryptocurrency at a stable price at the time of its launch, possibly looking for the increase in value when it is on an Exchange and can sell it obtaining a considerable profit.
+GENERATION BY SOLIDARITY.The mobile application will provide the user with a way to use the donations that he normally makes in his daily life, affiliations to NGOs, blood donations, aid and participation in charitable projects, etc … to generate cryptocurrency balance or SMIS token.
+STAKIN . The mobile application will also allow staking of the token (The coin will be blocked for a certain time) in exchange for a percentage of profit in the cryptocurrency itself. The application will also enable the option to receive the benefit in a secondary token of the SMIS family, this being a greater benefit.
+EXCHANGES.As is logical, the token can be acquired on Exchange through the cryptocurrency exchange, the first of these Exchange being the decentralized Exchange PancakeSwap through the BNB pair.
+ 
+
+Mobile App Users
+
+At the time of the launch of the application all users who have SMIS in their wallets (Metamask, TRUST WALLET, etc.) will be able to pass their tokens to the SMIS wallet, where they can use them for the different functions of the application.
+
+Functions of the application:
+
+GENERATION BY SOLIDARITY. This will be the last function to be added to the mobile application and will allow the user to add their data of the associations to which this affiliate, thus generating a balance in the token. You can also add the specific contributions you make in your normal life to charities, and these will also generate a balance in the token. You can also add blood or bone marrow donations made to generate balance.
+
+DONATIONS With the balance of your SMIS tokens you can contribute part to projects that companies and charities have presented to us and have been previously verified. In the application you will find several projects where you can find out about them and the purpose they pursue and thus decide if they are worthy of your trust and your tokens. This act will not be exempt from benefit since a second token will be implemented that will be generated in a small percentage and that you will receive according to the donation made.
+
+STAKING Users will be able to “staking” leave their tokens locked in exchange for a profit. This benefit can be received in the token itself or in the secondary token.
+
+PRESENTATION OF PROJECTS Users such as companies and charities will be able to present their projects by providing all the necessary information to review their veracity and usefulness. After an exhaustive study and verification of their viability, they will be validated and these will appear in the APP and all users will be able to see them and contribute their tokens.
+Individuals may also submit their projects, but they should know that the level of demand and verification will be high and extensive research will be required to verify their legality and usefulness. As an example of this would be the collection of donations to help in medical treatments for a family member. These will require a verification of verified information to assess their inclusion.
+
+Transaction Fees
+
+None of the functions that require transactions will have any transaction fee or commission applied by SMIS, but may be affected by the commissions of the BSChain network through which the SMIS token circulates.
+
+ 
+
+TOKEN Data
+
+Total Fixed Supply
+
+The total supply of the token is 50,000,000 token, and it will never vary, no new tokens will be generated. This model will help to avoid an excessive devaluation of the currency due to an overproductation of it that reduces its value.
+
+Commissions and fees
+
+No commission or fee will be applied to the actions or transactions of the SMIS token. There is no address where tokens generated or collected in each transaction are deposited.
+
+Burn
+
+In the secondary token that will be implemented after the launch of the application, the possibility of burning will be enabled to reduce its rapid devaluation, but the main token does not allow the realization of burns and the supplay will remain fixed.
+
+ 
+
+NEW COIN GENERATION PROTOCOL
+
+ 
+
+In the last phases of the project, a specific functionality will be implemented within the app yet to be revealed which will allow generating tokens using a specific function present in all smartphones.
+
+Activating this function will allow you to generate the tokens without worrying and at the same time it will serve to give even more value to the token, making the project something more solid and sustainable over time.
+
+ 
+
+Roadmap / implementation plan
+
+Phase 1: PASTEUR
+
+The project is presented in networks and the cryptocurrency or token is created
+
+This is the initial step where the Smart contract is created and implemented within the Binance Smart Chain network.
+
+Phase 2 – MONTESSORI
+
+In this phase the first FREE AIR DROP coin distribution will take place, different promotions will be made and it will be listed on the decentralized PancakeSwap EXCHANGE where users can exchange it. First it will be enabled with the BNB pair
+
+Phase 3 – COPERNICUS
+
+In this phase, possibly one of the most important will be launched the mobile application, some sponsors and collaborators will be announced, and the secondary token of the SMIS network will be created and launched.
+
+Phase 4 – LEMAITRE
+
+In this phase, new sponsors will be announced, as well as functionalities of the APP and the latest IDO (TOKEN Sale at a fixed price) will be launched.
+
+Phase 5 – MENDEL
+
+In this phase a new coin generation protocol will be implemented where you can generate coins using an everyday function of your phone which will give much more value to the token.
